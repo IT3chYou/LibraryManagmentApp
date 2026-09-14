@@ -43,8 +43,10 @@ This application provides a clean interface for managing books and personal task
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/IT3chYou/LibraryManagmentApp.git
+cd LibraryManagmentApp
+
+
 
 
 # Run the app
